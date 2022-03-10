@@ -9,7 +9,7 @@ The functions of a remote keyless entry system are contained on a key fob or bui
 
 ## High Level Requirements
 
-| ID | Description |
+|ID | Description |
 |------:|:----------|
 |HR1  | As blue switch on all LEDs should on at the same time and door should lock |
 |HR2  | As blue switch presses two times all LEDs should off and door should unlock |
