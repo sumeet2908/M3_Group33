@@ -4,5 +4,12 @@
  
  # High Level Requirements
  
+ |ID	 | Description                                            |	
+|:--:|:------------------------------------------------------:|
+|HLR1| It should lock the car door.
+|HLR2| It should unlock the car door.	
+|HLR3| It alarm should ring for security purpose 	
+|HLR4| The aproach light should glow.
+ 
  
 
