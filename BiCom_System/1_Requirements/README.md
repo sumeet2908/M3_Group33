@@ -7,9 +7,19 @@
  |ID	 | Description                                            |	
 |:--:|:------------------------------------------------------:|
 |HLR1| It should Display Window status.
-|HLR2| It should Display Battery information.	
-|HLR3| It Should Display Alarm status.
+|HLR2| It should Display Alarm Status.	
+|HLR3| It Should Display Battery status.
 |HLR4| It Should Display Door status.
+
+
+# Low Level Requirements
+
+| ID |    Description                                                                                                                   
+|:--:|:----------------------------------------------------------------------------------------------------------------------------------
+|LLR1|Press blue button 1 time, All led ON at the same time.
+|LLR2|Press blue button 2 time, All led OFF at the same time.
+|LLR3|Press blue button 3 time, All led  glows in clockwise manner.
+|LLR4|Press blue button 4 time, All led glows in anticlockwise manner.  
  
  
 
