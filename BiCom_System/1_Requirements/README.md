@@ -1,10 +1,14 @@
 # Description
 # Bicom System
  A Bicom system is the extention of the unidirectional RKE to bidirectional RKE. This systems shows alarm statuts, window status, car battery information and door status.Each of these functions are displayed with the help of LED. For window status  blue switch on all led on at the same time. For alarm status blue switch pressed two times all led off at the same time. For battery switch press Three times all led in clockwise manner and for Door status press switch four times all led in anticlockwise direction.
+# Features
+* It will show window status of the car when Button is pressed one time
+* It will show alarm status the car when Button is pressed two time
+* It will show car battery info when the Button is pressed three times 
+* It will show door status of the car when the Button is pressed four times
+# High Level Requirements
  
- # High Level Requirements
- 
- |ID	 | Description                                            |	
+|ID	 | Description                                            |	
 |:--:|:------------------------------------------------------:|
 |HLR1| It should Display Window status.
 |HLR2| It should Display Alarm Status.	
