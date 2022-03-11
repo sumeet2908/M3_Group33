@@ -21,5 +21,25 @@
 |LLR3|Press blue button 3 time, All led  glows in clockwise manner.
 |LLR4|Press blue button 4 time, All led glows in anticlockwise manner.  
  
- 
+## 5W's And 1H
+
+## Who
+## oPeople who own a car.
+
+## What
+## oThe system can control the feature of car by wireless key.
+## oThe status of different features of the car is given by LED's or display.
+
+## When
+## oWhen the user wants to know the status of windows , alarm ,battery and door.
+
+## Where 
+## oWhere the owner want to use the features of ther car provided .
+
+## Why
+## oTo know the working and ststuus of different features of the car.
+## oTo use diffewrent feature of the car with ease .
+
+## How 
+## oThe features can be used by buttons of your remote or device . 
 
