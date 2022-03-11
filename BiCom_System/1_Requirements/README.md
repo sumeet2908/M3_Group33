@@ -6,10 +6,10 @@
  
  |ID	 | Description                                            |	
 |:--:|:------------------------------------------------------:|
-|HLR1| It should lock the car door.
-|HLR2| It should unlock the car door.	
-|HLR3| It alarm should ring for security purpose 	
-|HLR4| The aproach light should glow.
+|HLR1| It should Display Window status.
+|HLR2| It should Display Battery information.	
+|HLR3| It Should Display Alarm status.
+|HLR4| It Should Display Door status.
  
  
 
