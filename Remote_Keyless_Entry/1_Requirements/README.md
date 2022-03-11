@@ -3,7 +3,10 @@
 Remote keyless entry (RKE) is an electronic access system that can be controlled from a distance. RKEs, which are typically used to remotely lock or unlock doors, require the end user to initiate an action that will cause a physical or software key fob to transmit a radio signal to a receiver that controls an electronic lock. Typically, the action is to press a button on a physical fob or mobile app.
 
 # Feature 
-
+ * It will lock the car when blue button press one time
+ * It will unlock the car when blue button press two time
+ * It will activate alarm  when blue button press three time
+ * It will aproach light when blue button press four time
 
 # High Level Requirements
 |ID  | Description                                            |	
